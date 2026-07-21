@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1C2C,100:6D5D6E&height=220&section=header&text=Os_car&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20%7C%20Cloud%20%26%20Systems&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:AE8B62,50:6E5B49,100:2A2420&height=200&section=header&text=Os_car&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20%7C%20Cloud%20%26%20Systems&descAlignY=58&descAlign=50" width="100%"/>
 
 <h3>Hi, I'm Oscar Odongkara 👋</h3>
 
@@ -12,7 +12,7 @@ Designing practical, secure solutions to real-world problems.
 
 <p>
 <a href="https://linkedin.com/in/oscarodongkara"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/@hozkah"><img src="https://img.shields.io/badge/X-FOLLOW-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://x.com/hozkah?s=21"><img src="https://img.shields.io/badge/X-FOLLOW-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="mailto:oscarodongkara@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://discord.gg/hoz_kah"><img src="https://img.shields.io/badge/DISCORD-JOIN-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://instagram.com/hozkah"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -165,15 +165,7 @@ I'm a computer scientist by profession with a strong passion for software engine
 <hr/>
 
 ## 💰 Support My Work
-
-<p align="center">
-<a href="https://paypal.me/oscarodongkara"><img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-</p>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5D6E,100:1F1C2C&height=150&section=footer" width="100%"/>
-
-</div>
-
-<!-- Proudly rebuilt from a GPRM-generated README -->
+<p align="center"> <a href="https://paypal.me/oscarodongkara">
+  <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a> </p> 
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2420,50:6E5B49,100:AE8B62&height=150&section=footer" width="100%"/> </div> <!-- Proudly rebuilt from a GPRM-generated README -->
