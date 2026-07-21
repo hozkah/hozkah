@@ -145,11 +145,8 @@ I'm a computer scientist by profession with a strong passion for software engine
 </div>
 
 ###  Top Contributed Repo
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=hozkah&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
+<div align="center"> 
+  <img src="https://github-contributor-stats.vercel.app/api?username=hozkah&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
 <hr/>
