@@ -28,10 +28,10 @@ Designing practical, secure solutions to real-world problems.
 
 I'm a computer scientist by profession with a strong passion for software engineering, network and systems administration, cybersecurity, and cloud technologies.
 
-- 🛠️ Building practical solutions across full-stack web development, database systems, and IT infrastructure.
-- 🌐 Experience spanning networking, secure system design, and cloud-native deployments.
-- 🤖 Growing interest in AI-driven applications and applied machine learning.
-- 📚 Always exploring new tools across the DevOps, cloud, and security landscape.
+-  Building practical solutions across full-stack web development, database systems, and IT infrastructure.
+-  Experience spanning networking, secure system design, and cloud-native deployments.
+-  Growing interest in AI-driven applications and applied machine learning.
+-  Always exploring new tools across the DevOps, cloud, and security landscape.
 
 <hr/>
 
@@ -127,7 +127,7 @@ I'm a computer scientist by profession with a strong passion for software engine
 
 </div>
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -135,7 +135,7 @@ I'm a computer scientist by profession with a strong passion for software engine
 
 </div>
 
-### ✍️ Today's Dev Quote
+###  Today's Dev Quote
 
 <div align="center">
 
@@ -143,7 +143,7 @@ I'm a computer scientist by profession with a strong passion for software engine
 
 </div>
 
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 
 <div align="center">
 
@@ -153,7 +153,7 @@ I'm a computer scientist by profession with a strong passion for software engine
 
 <hr/>
 
-## What I Build
+## What I Build / My Interest
 
 | Area | Work I Focus On |
 |---|---|
@@ -165,7 +165,7 @@ I'm a computer scientist by profession with a strong passion for software engine
 
 <hr/>
 
-## 💰 Support My Work
+##  To Support?
 <p align="center"> <a href="https://paypal.me/oscarodongkara">
   <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a> </p> 
 <div align="center"> 
