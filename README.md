@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About me:<br><br>I'm Os_car, a computer Scientist by profession with a strong passion for software engineering, network and systems administration, cybersecurity, and cloud technologies.<br><br>As a tech enthusiast, designing practical solutions that solve real-world problems through technology has been my key motivation. My experience spans full-stack web development, database systems, networking, and IT infrastructure, with a growing interest in AI-driven applications and secure system design.<br>
+<br><br>I'm Os_car, a computer Scientist by profession with a strong passion for software engineering, network and systems administration, cybersecurity, and cloud technologies.<br><br>As a tech enthusiast, designing practical solutions that solve real-world problems through technology has been my key motivation. My experience spans full-stack web development, database systems, networking, and IT infrastructure, with a growing interest in AI-driven applications and secure system design.<br>
 
 
 ## 🌐 Socials:
@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=hozkah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/oscarodongkara) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/oscar&odongkara) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
