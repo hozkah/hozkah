@@ -128,7 +128,8 @@ I'm a computer scientist by profession with a strong passion for software engine
 </div>
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hozkah&theme=react-dark&area=true&hide_border=true" width="100%"/> </div>
-##  GitHub Trophies
+
+### GitHub Trophies
 
 <div align="center">
 
