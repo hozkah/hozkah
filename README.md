@@ -165,7 +165,6 @@ I'm a computer scientist by profession with a strong passion for software engine
 
 <hr/>
 
-##  To Support?
 <p align="center"> <a href="https://paypal.me/oscarodongkara">
   <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a> </p> 
 <div align="center"> 
