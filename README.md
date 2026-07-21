@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AE8B62,50:6E5B49,100:2A2420&height=200&section=header&text=OSCAR%40ODONGKARA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cyber%20and%20Data%20Security%20%7C%20Network%20and%20Systems&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AE8B62,50:6E5B49,100:2A2420&height=200&section=header&text=Oscar&Odongkara&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cyber%20and%20Data%20Security%20%7C%20Network%20and%20Systems&descAlignY=58&descAlign=50" width="100%"/>
 </p>
 
 <h2>Hi, I'm Oscar Odongkara</h2>
