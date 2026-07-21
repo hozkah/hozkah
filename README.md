@@ -5,7 +5,7 @@
 <h3>Hi, I'm Oscar Odongkara 👋</h3>
 
 <p>
-Software Engineer &nbsp;|&nbsp; Network &amp; Systems Admin &nbsp;|&nbsp; Cybersecurity &amp; Cloud
+Comuter Scientist &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Network &amp; System  Admin &nbsp;|&nbsp; Cyber & Data Security
 <br/>
 Designing practical, secure solutions to real-world problems.
 </p>
