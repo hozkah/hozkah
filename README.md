@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AE8B62,50:6E5B49,100:2A2420&height=200&section=header&text=Os_car&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20%7C%20Cloud%20%26%20Systems&descAlignY=58&descAlign=50" width="100%"/>
 
-<h3>Hi, I'm Oscar Odongkara 👋</h3>
+<h2>Hi, I'm Oscar Odongkara</h2>
 
 <p>
 <strong>Comuter Scientist &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Network &amp; System  Admin &nbsp;|&nbsp; Cyber & Data Security</strong>
