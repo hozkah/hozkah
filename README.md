@@ -121,12 +121,12 @@ I'm a computer scientist by profession with a strong passion for software engine
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=hozkah&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" />
-<img src="https://streak-stats.demolab.com/?user=hozkah&theme=shadow_blue&hide_border=false" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hozkah&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-stats.shion.dev/api?username=hozkah&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" />
+<img src="https://streak-stats.demolab.com/?user=hozkah&theme=shadow_blue&hide_border=true" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hozkah&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
 </div>
-## Contribution Activity
+
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hozkah&theme=react-dark&area=true&hide_border=true" width="100%"/> </div>
 ##  GitHub Trophies
 
