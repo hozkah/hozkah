@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AE8B62,50:6E5B49,100:2A2420&height=200&section=header&text=Oscar%20Odongkara&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cyber%20and%20Data%20Security%20%7C%20Network%20and%20Systems&descAlignY=58&descAlign=50" width="100%"/>
 </p>
 
-<h2 style="font-size: 44px;">Hi, I'm Oscar Odongkara</h2>
+<h1>Hi, I'm Oscar Odongkara</h1>
 
 <p>
 <strong>Computer Scientist &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Network &amp; System  Admin &nbsp;|&nbsp; Cyber & Data Security</strong>
