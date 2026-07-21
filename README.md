@@ -1,12 +1,12 @@
 <div align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AE8B62,50:6E5B49,100:2A2420&height=200&section=header&text=Os_car&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20%7C%20Cloud%20and%20Systems&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AE8B62,50:6E5B49,100:2A2420&height=200&section=header&text=OSCAR ODONGKARA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cyber%20and%20Data%20Security%20%7C%20Network%20and%20Systems&descAlignY=58&descAlign=50" width="100%"/>
 </p>
 
 <h2>Hi, I'm Oscar Odongkara</h2>
 
 <p>
-<strong>Comuter Scientist &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Network &amp; System  Admin &nbsp;|&nbsp; Cyber & Data Security</strong>
+<strong>Computer Scientist &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Network &amp; System  Admin &nbsp;|&nbsp; Cyber & Data Security</strong>
 <br/>
 Designing practical, secure solutions to real-world problems.
 </p>
