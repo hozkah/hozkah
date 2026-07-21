@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AE8B62,50:6E5B49,100:2A2420&height=200&section=header&text=Os_car&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20%7C%20Cloud%20%26%20Systems&descAlignY=58&descAlign=50" width="100%"/>
 
-<h3>Hi, I'm Oscar Odongkara 👋</h3>
+<h4>Hi, I'm Oscar Odongkara 👋</h4>
 
 <p>
-Comuter Scientist &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Network &amp; System  Admin &nbsp;|&nbsp; Cyber & Data Security
+<h3>Comuter Scientist &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Network &amp; System  Admin &nbsp;|&nbsp; Cyber & Data Security</h3>
 <br/>
 Designing practical, secure solutions to real-world problems.
 </p>
@@ -16,7 +16,7 @@ Designing practical, secure solutions to real-world problems.
 <a href="mailto:oscarodongkara@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://discord.gg/hoz_kah"><img src="https://img.shields.io/badge/DISCORD-JOIN-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://instagram.com/hozkah"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://pinterest.com/Hozkah"><img src="https://img.shields.io/badge/PINTEREST-FOLLOW-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+<!--a href="https://pinterest.com/Hozkah"><img src="https://img.shields.io/badge/PINTEREST-FOLLOW-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a-->
 </p>
 
 </div>
